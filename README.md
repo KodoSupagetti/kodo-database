@@ -5,12 +5,12 @@ This repository serves as a **simple JSON and image-based database** for kodo su
 ## 🚀 Repository Structure
 
 📂 [REPO_NAME]/
-├── 📂 data/ # JSON data folder
-│ ├── posts.json # Example post data
-│ └── users.json # Example user data
-├── 📂 images/ # Assets storage folder
-│ ├── header.jpg
-│ └── profile.png
+├── 📂 data/ # JSON data folder  
+│ ├── posts.json # Example post data  
+│ └── users.json # Example user data  
+├── 📂 images/ # Assets storage folder  
+│ ├── header.jpg  
+│ └── profile.png  
 └── README.md
 
 ## 🔗 Access Data via GitHub Pages
